@@ -6,7 +6,7 @@ A modern and responsive personal portfolio built using **Next.js**, **Tailwind C
 
 ## 🚀 Live Demo
 
-🔗 https://your-portfolio-link.vercel.app
+🔗 https://divyanshi-bahuguna-portfolio.netlify.app/
 
 ---
 
