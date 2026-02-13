@@ -53,7 +53,7 @@ const HeroSection = () => {
             </Link>
 
             <Link
-              href="https://drive.google.com/file/d/1i4Ggb1hs19MhnPvdLwgl01CECpscNg06/view?usp=drive_link"
+              href="https://drive.google.com/file/d/1i4Ggb1hs19MhnPvdLwgl01CECpscNg06/view?usp=sharing"
               target="_blank"
               className="px-6 py-3 rounded-full border border-pink-500 text-white hover:bg-pink-500 transition text-center"
             >
