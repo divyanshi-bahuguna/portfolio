@@ -1,10 +1,12 @@
 export default function LeetCodeSection() {
 
   const badges = [
-    { title: "100 Days Badge", img: "/images/leetcode/100days.png" },
+    { title: "100 Days 2025 Badge", img: "/images/leetcode/100days.png" },
     { title: "50 Days Badge", img: "/images/leetcode/50days.png" },
-    { title: "October Badge", img: "/images/leetcode/oct.png" },
-    { title: "September Badge", img: "/images/leetcode/sep.png" },
+    { title: "October 2025 Badge", img: "/images/leetcode/oct.png" },
+    { title: "September 2025 Badge", img: "/images/leetcode/sep.png" },
+    { title: "50 days 2026 badge", img: "/images/leetcode/50d2026.png" },
+    { title: "February 2026 Badge", img: "/images/leetcode/feb.png" },
   ];
 
   return (
